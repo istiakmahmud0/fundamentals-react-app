@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/istiakmahmud0.github.io/fundamentals-react-app/static/css/main.b74850be.chunk.css",
+    "main.js": "/istiakmahmud0.github.io/fundamentals-react-app/static/js/main.42080e11.chunk.js",
+    "main.js.map": "/istiakmahmud0.github.io/fundamentals-react-app/static/js/main.42080e11.chunk.js.map",
+    "runtime-main.js": "/istiakmahmud0.github.io/fundamentals-react-app/static/js/runtime-main.7328b2f1.js",
+    "runtime-main.js.map": "/istiakmahmud0.github.io/fundamentals-react-app/static/js/runtime-main.7328b2f1.js.map",
+    "static/js/2.ccdcdc39.chunk.js": "/istiakmahmud0.github.io/fundamentals-react-app/static/js/2.ccdcdc39.chunk.js",
+    "static/js/2.ccdcdc39.chunk.js.map": "/istiakmahmud0.github.io/fundamentals-react-app/static/js/2.ccdcdc39.chunk.js.map",
+    "static/js/3.9f562936.chunk.js": "/istiakmahmud0.github.io/fundamentals-react-app/static/js/3.9f562936.chunk.js",
+    "static/js/3.9f562936.chunk.js.map": "/istiakmahmud0.github.io/fundamentals-react-app/static/js/3.9f562936.chunk.js.map",
+    "index.html": "/istiakmahmud0.github.io/fundamentals-react-app/index.html",
+    "static/css/main.b74850be.chunk.css.map": "/istiakmahmud0.github.io/fundamentals-react-app/static/css/main.b74850be.chunk.css.map",
+    "static/js/2.ccdcdc39.chunk.js.LICENSE.txt": "/istiakmahmud0.github.io/fundamentals-react-app/static/js/2.ccdcdc39.chunk.js.LICENSE.txt",
+    "static/media/ITL_card-image - Copy.f3273b6e.png": "/istiakmahmud0.github.io/fundamentals-react-app/static/media/ITL_card-image - Copy.f3273b6e.png",
+    "static/media/ITL_card-image.268f40aa.png": "/istiakmahmud0.github.io/fundamentals-react-app/static/media/ITL_card-image.268f40aa.png",
+    "static/media/aboutorigin_3840x2160_battlefield1.625b6f6c.jpg": "/istiakmahmud0.github.io/fundamentals-react-app/static/media/aboutorigin_3840x2160_battlefield1.625b6f6c.jpg",
+    "static/media/download.f4b8146d.jpg": "/istiakmahmud0.github.io/fundamentals-react-app/static/media/download.f4b8146d.jpg",
+    "static/media/istockphoto-177427917-612x612.a20730a9.jpg": "/istiakmahmud0.github.io/fundamentals-react-app/static/media/istockphoto-177427917-612x612.a20730a9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7328b2f1.js",
+    "static/js/2.ccdcdc39.chunk.js",
+    "static/css/main.b74850be.chunk.css",
+    "static/js/main.42080e11.chunk.js"
+  ]
+}
